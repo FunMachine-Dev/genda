@@ -523,6 +523,76 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+/*diseño división TOP*/
+.custom-shape-divider-top-1737320463 {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  background-color: #f4f7fa;
+}
+
+.custom-shape-divider-top-1737320463 svg {
+  position: relative;
+  display: block;
+  width: calc(115% + 1.3px);
+  height: 27px;
+}
+
+.custom-shape-divider-top-1737320463 .shape-fill {
+  fill: #181E30;
+}
+
+
+/*diseño división TOP*/
+.custom-shape-divider-top-1737320463-2 {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  background-color: #ffff;
+}
+
+.custom-shape-divider-top-1737320463-2 svg {
+  position: relative;
+  display: block;
+  width: calc(115% + 1.3px);
+  height: 27px;
+}
+
+.custom-shape-divider-top-1737320463-2 .shape-fill {
+  fill: #181E30;
+}
+
+
+/*Diseño división BOTTOM*/
+.custom-shape-divider-top-1737321802 {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  background-color: #181E30;
+}
+
+.custom-shape-divider-top-1737321802 svg {
+  position: relative;
+  display: block;
+  width: calc(146% + 1.3px);
+  height: 32px;
+}
+
+.custom-shape-divider-top-1737321802 .shape-fill {
+  fill: #F4F7FA;
+}
+
+
+
 hr {
   margin: 0.5rem 0;
   color: var(--brainwaveio-border-color);
